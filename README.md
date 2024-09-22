@@ -1,12 +1,13 @@
-# Project Title
+# Project Title: Shell Permissions
 
 ## Description
-This project contains scripts for switching users in a Linux environment.
+This project contains scripts for managing Linux user permissions. The scripts demonstrate how to switch users and understand file permissions in Linux.
 
-## Script: 0-iam_betty
+## Scripts
+
+### 0-iam_betty
 This script switches the current user to the user 'betty'.
 
-### Usage
+**Usage:**
 To run the script, use the command:
-```bash
-./0-iam_betty
+
